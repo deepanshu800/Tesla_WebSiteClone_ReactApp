@@ -13,7 +13,7 @@ function Header() {
   return (
     <Container>
       <a>
-        <img src='images/logo.svg' alt='logo' />
+        <img src='/images/logo.svg' alt='logo' />
       </a>
       <Menu>
         {cars && cars.map((car, index) =>
@@ -91,7 +91,7 @@ a{
 const CustomMenu = styled.div`
   width:20px;
   height: 20px;
-  background-image: url("images/icons8-menu-50.png");
+  background-image: url("/images/icons8-menu-50.png");
   background-size: cover;
 `
 const BurgerNav = styled.div`
