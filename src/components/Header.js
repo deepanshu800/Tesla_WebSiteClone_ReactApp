@@ -40,7 +40,7 @@ function Header() {
         <li><a href='#'>Used Inventory</a></li>
         <li><a href='#'>Trade-in</a></li>
         <li><a href='#'>CyberTruck</a></li>
-        <li><a href='#'>Roadster</a></li>]
+        <li><a href='#'>Roadster</a></li>
       </BurgerNav>
     </Container >
   )
